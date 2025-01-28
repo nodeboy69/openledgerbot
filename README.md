@@ -3,7 +3,7 @@
 ![banner](image.png)
 
 
-- Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=ccex4vipg4)
+- Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=)
 - Twitter [@OpenledgerHQ](https://x.com/OpenledgerHQ)
 
 
